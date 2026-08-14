@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "item_no": "9084",
+    "title": "스낵",
+    "url": "https://gggpick.com/api/item/9084"
+  },
+  {
+    "item_no": "2408",
+    "title": "과자",
+    "url": "https://gggpick.com/api/item/2408"
+  },
+  {
+    "item_no": "8779",
+    "title": "쿠키",
+    "url": "https://gggpick.com/api/item/8779"
+  }
+]
