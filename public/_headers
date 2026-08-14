@@ -1,0 +1,21 @@
+# ⚡ 캐시 최적화: 정적 HTML - 1시간 캐시
+/*.html
+  Cache-Control: public, max-age=3600
+
+# ⚡ 캐시 최적화: CSS/JS - 30일 캐시 (Hugo가 해시 파일명 생성)
+/*.css
+  Cache-Control: public, max-age=2592000
+/*.js
+  Cache-Control: public, max-age=2592000
+
+# ⚡ 캐시 최적화: 이미지/폰트 - 30일 캐시
+/*.png
+  Cache-Control: public, max-age=2592000
+/*.jpg
+  Cache-Control: public, max-age=2592000
+/*.webp
+  Cache-Control: public, max-age=2592000
+/*.svg
+  Cache-Control: public, max-age=2592000
+/*.woff2
+  Cache-Control: public, max-age=2592000
